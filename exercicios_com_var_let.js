@@ -21,3 +21,4 @@ console.log('fora =', numero)
 
 // as variaveis definidas como var tem escopo global e função.
 // já as variveis definidas como let tem escopo global, de função e de bloco
+*/
